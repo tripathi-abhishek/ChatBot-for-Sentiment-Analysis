@@ -15,8 +15,6 @@ It provides a simple API for diving into common natural language processing (NLP
 noun phrase extraction, sentiment analysis, classification, translation, and more.
 
 
-![Alt text](https://github.com/tripathi-abhishek/ChatBox-for-Sentment-Analysis/blob/master/ChatBot%20screenshot.jpg?raw=true "Optional Title")
-
 ```
 Hello hooman, what's your name?!🤔
 abhishek
