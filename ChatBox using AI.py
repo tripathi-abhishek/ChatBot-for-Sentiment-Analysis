@@ -80,7 +80,7 @@ for i in range(0, random.randint(3, 4)):
   question = random.choice(questions)
   questions.remove(question)
   topic = random.choice(topics)
-  topic.remove(topic)
+  topics.remove(topic)
   print(question + topic+'?')
   ans = input()
   blob = TextBlob(ans)
