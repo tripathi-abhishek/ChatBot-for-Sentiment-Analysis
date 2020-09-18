@@ -1,4 +1,5 @@
 #0 import libraries
+
 import random
 from textblob import TextBlob
 
@@ -25,6 +26,7 @@ from textblob import TextBlob
 '''
 
 #1 name and nickname conversation
+
 print("Hello hooman, what's your name?!🤔")
 name = input()
 print('Do you have a nickname?! [y/n] 🙃')
@@ -58,6 +60,7 @@ else:
 
 
 #3 several random opinions
+
 topics = [
     'football',
     'coding',
