@@ -1,4 +1,4 @@
-# ChatBot-for-Sentment-Analysis
+# ChatBot-for-Sentiment-Analysis
 **Sentiment analysis**  (also known as **opinion mining** or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. 
 ## Application : 
    *reviews and survey responses
@@ -40,5 +40,6 @@ What do u reckon about football?
 it's a good sport
 OMG, you really love football
 and you are so biased!
-It was good talking to u narutoI gotta go now!
+It was good talking to u naruto
+I gotta go now!
 ```
